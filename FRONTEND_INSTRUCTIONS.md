@@ -526,4 +526,4 @@ Alternatively, if you want to make modifications to the theme, check out the [th
   </div>
 
 </div>
-```
+...

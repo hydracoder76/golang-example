@@ -12,7 +12,6 @@ type Database struct {
 }
 
 var DB *gorm.DB
-
 // Opening a database and save the reference to `Database` struct.
 func Init() *gorm.DB {
 	db, err := gorm.Open("sqlite3", "./../gorm.db")
